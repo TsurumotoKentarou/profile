@@ -24,19 +24,19 @@
 
 ## スキルセット
 
-### 言語
+#### 言語
 Swift, Objective-C, Dart, TypeScript, C#, Ruby, PHP
 
-### フレームワーク
+#### フレームワーク
 SwiftUI, UIKit, Flutter, CoreLocation, ARKit, MapKit, AVFoundation, Unity, Ruby on Rails, Phalcon
 
-### DB
+#### DB
 Realm, Drift(SQLite), MySQL
 
-### インフラ
+#### インフラ
 Firebase(Authentication, Firestore, Storage, Fuctions, App Distribution など)
 
-### ライブラリ
+#### ライブラリ
 RxSwift, Realm, Alamofire, R.swift, PKHUD、等お世話になったライブラリは数知れず。
 
 ## 得意な業務
