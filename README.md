@@ -39,9 +39,15 @@ Firebase(Authentication, Firestore, Storage, Fuctions, App Distribution など)
 ### ライブラリ
 RxSwift, Realm, Alamofire, R.swift, PKHUD、等お世話になったライブラリは数知れず。
 
+## 得意な業務
+* iOS/Androidアプリ開発全般
+* アーキテクチャに則ったコーディング
+* Firebaseを用いたアプリのバックエンド構築
+* UI/UXを重視したデザインや機能の提案
+
 ## 主な業務経歴書
 
-### ボイトレレッスンの生徒と講師のためのレッスン予約管理アプリの開発 (2021年)
+### ボイトレレッスンの生徒と講師のためのレッスン予約管理アプリ (2021年)
 
 #### プロジェクト概要
 ボイトレレッスンの生徒と講師がレッスンの予約を管理できるiOS/Androidアプリの新規開発業務。
