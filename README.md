@@ -9,7 +9,7 @@
 |  生年月日  |  1992年  |
 |  居住地  |  東京都板橋区  |
 |  雇用形態  |  業務委託(準委任、請負どちらも可能)  |
-|  ポートフォリオ  |  [GitHub](https://github.com/TsurumotoKentarou) , [Wantedly](https://www.wantedly.com/id/kentarou_tsurumoto) |
+|  ポートフォリオ  |  [Qiita](https://qiita.com/tsuruken), [GitHub](https://github.com/TsurumotoKentarou), [Wantedly](https://www.wantedly.com/id/kentarou_tsurumoto) |
 
 ## 自己紹介
 これまで様々なiOS/Androidのアプリの開発に携わってきました。
