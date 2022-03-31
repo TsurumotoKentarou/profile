@@ -7,7 +7,7 @@
 |  名前  |  鶴本 賢太朗  |
 |  性別  |  男  |
 |  生年月日  |  1992年  |
-|  居住地  |  東京都板橋区  |
+|  居住地  |  都内在住  |
 |  雇用形態  |  業務委託(準委任、請負どちらも可能)  |
 |  ポートフォリオ  |  [Qiita](https://qiita.com/tsuruken), [GitHub](https://github.com/tsuruken0802), [Wantedly](https://www.wantedly.com/id/kentarou_tsurumoto) |
 
