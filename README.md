@@ -28,16 +28,16 @@
 Swift, Objective-C, Dart, TypeScript, C#, Ruby, PHP
 
 #### フレームワーク
-SwiftUI, UIKit, Flutter, CoreLocation, ARKit, MapKit, AVFoundation, Unity, Ruby on Rails, Phalcon
+SwiftUI, UIKit, Flutter, NestJS, Unity, Ruby on Rails, Phalcon
 
 #### DB
-Realm, Drift(SQLite), MySQL
+Realm, Drift(SQLite), MySQL, TypeORM(ORマッパー)
 
-#### インフラ
-Firebase(Authentication, Firestore, Storage, Fuctions, App Distribution など)
+#### インフラ周り
+GCP(CloudRun,CloudSQL,CloudBuild), Firebase(Authentication,Firestore,Storage,Fuctions,App Distribution), Docker, Terraform
 
 #### ライブラリ
-RxSwift, Realm, Alamofire, R.swift, PKHUD、等お世話になったライブラリは数知れず。
+RxSwift, Realm, Alamofire等お世話になったライブラリは数知れず。
 
 ## 得意な業務
 * iOS/Androidアプリ開発全般
@@ -47,7 +47,28 @@ RxSwift, Realm, Alamofire, R.swift, PKHUD、等お世話になったライブラ
 
 ## 主な業務経歴書
 
-### 資格取得のための生徒と先生のマッチングアプリ (2022年~現在)
+### 位置情報を用いたSNSアプリ (2022年10月~現在)
+
+#### プロジェクト概要
+位置情報を用いたSNSアプリの新規開発。
+
+#### 担当業務
+全ての実装、設計。
+
+言語はDart、TypeScript。
+
+業務の詳細は下記の通り。
+
+* Dockerを用いたNestJSアプリケーションのコンテナ化
+* NestJS+TypeORMを用いたCRUDの実装
+* Terraformを用いてGCPリソースをコードで管理化
+* CloudBuildを用いたCI/CD環境の構築
+
+#### 提供した価値
+NestJSでのAPIの実装や、GCP上でのCI/CD環境の構築の経験はなかったが、これまで培ってきた「わからないことがありながらも前に進めてきた経験」を活かし、なんとか終えることができた。
+特にCI/CD環境の構築時に行った、CloudBuildを使ってCloudSQLにTypeORMのマイグレーションコマンドを実行する際は、情報が少ないながらも完遂できて満足している。
+
+### 資格取得のための生徒と先生のマッチングアプリ (2022年7月~現在)
 
 #### プロジェクト概要
 資格取得を目的とした「生徒」がチケットを購入し、資格取得のアドバイスをする「先生」がインセンティブを受け取られるFlutterアプリの新規開発。
@@ -150,7 +171,7 @@ Flutterの有識者が少ない中、アーキテクチャの選定、CI/CD環�
 * Cloud Functionsを使用したトリガー関数からのFirestoreのデータのCRUD操作の実装
 * Cloud Functionsの単体テストの実装
 * Storageへの画像アップロードの実装
-* Authenticationを用いたログイン機能の実装(メールリンク、Google, Apple)
+* Authenticationを用いたログイン機能の実装(メールリンク, Google, Apple)
 * GitHubを用いたプロジェクト管理法の提案
 * アプリのリリース作業
 
