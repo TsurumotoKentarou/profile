@@ -60,7 +60,7 @@ GCP(CloudRun,CloudSQL,CloudBuild), Firebase(Authentication,Firestore,Storage,Fuc
 
 * Next.js/Reactを用いた画面開発
 * Atomic Designに基づいたコンポーネント設計
-* Dockerを用いたNestJSアプリケーションのコンテナ化
+* Dockerを用いたフロントエンド/バックエンド/DBのコンテナ化
 * NestJS+TypeORMを用いたCRUDの実装
 * Terraformを用いてGCPリソースをコードで管理化
 * CloudBuildを用いたCI/CD環境の構築
