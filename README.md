@@ -28,16 +28,13 @@
 Swift, Objective-C, Dart, TypeScript, C#, Ruby, PHP
 
 #### フレームワーク
-SwiftUI, UIKit, Flutter, NestJS, Unity, Ruby on Rails, Phalcon
+SwiftUI, UIKit, Flutter, Next.js, React, NestJS, Unity, Ruby on Rails, Phalcon
 
 #### DB
 Realm, Drift(SQLite), MySQL, TypeORM(ORマッパー)
 
 #### インフラ周り
 GCP(CloudRun,CloudSQL,CloudBuild), Firebase(Authentication,Firestore,Storage,Fuctions,App Distribution), Docker, Terraform
-
-#### ライブラリ
-RxSwift, Realm, Alamofire等お世話になったライブラリは数知れず。
 
 ## 得意な業務
 * iOS/Androidアプリ開発全般
@@ -47,25 +44,29 @@ RxSwift, Realm, Alamofire等お世話になったライブラリは数知れず�
 
 ## 主な業務経歴書
 
-### 位置情報を用いたSNSアプリ (2022年10月~現在)
+### 位置情報を用いたSNSのWebサービス (2022年10月~現在)
 
 #### プロジェクト概要
-位置情報を用いたSNSアプリの新規開発。
+位置情報を用いたSNSのWebサービスの新規開発。
 
 #### 担当業務
 全ての実装、設計。
 
-言語はDart、TypeScript。
+言語はTypeScript。
+
+フレームワークはNext.js、NextJS。
 
 業務の詳細は下記の通り。
 
+* Next.js/Reactを用いた画面開発
+* Atomic Designに基づいたコンポーネント設計
 * Dockerを用いたNestJSアプリケーションのコンテナ化
 * NestJS+TypeORMを用いたCRUDの実装
 * Terraformを用いてGCPリソースをコードで管理化
 * CloudBuildを用いたCI/CD環境の構築
 
 #### 提供した価値
-NestJSでのAPIの実装や、GCP上でのCI/CD環境の構築の経験はなかったが、これまで培ってきた「わからないことがありながらも前に進めてきた経験」を活かし、なんとか終えることができた。
+Next.js/Reactを用いた画面開発や、NestJSでのAPIの実装や、GCP上でのCI/CD環境の構築の経験はなかったが、これまで培ってきた「わからないことがありながらも前に進めてきた経験」を活かし、なんとか終えることができた。
 特にCI/CD環境の構築時に行った、CloudBuildを使ってCloudSQLにTypeORMのマイグレーションコマンドを実行する際は、情報が少ないながらも完遂できて満足している。
 
 ### 資格取得のための生徒と先生のマッチングアプリ (2022年7月~現在)
