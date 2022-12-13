@@ -34,7 +34,7 @@ SwiftUI, UIKit, Flutter, Next.js, React, NestJS, Unity, Ruby on Rails, Phalcon
 Realm, Drift(SQLite), MySQL, TypeORM(ORマッパー)
 
 #### インフラ周り
-GCP(CloudRun,CloudSQL,CloudBuild), Firebase(Authentication,Firestore,Storage,Fuctions,App Distribution), Docker, Terraform
+GCP(CloudRun,CloudSQL,CloudBuild), Firebase(Authentication,Firestore,Storage,Functions,App Distribution), Docker, Terraform
 
 ## 得意な業務
 * iOS/Androidアプリ開発全般
