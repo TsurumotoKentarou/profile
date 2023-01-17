@@ -54,7 +54,7 @@ GCP(CloudRun,CloudSQL,CloudBuild), Firebase(Authentication,Firestore,Storage,Fun
 
 言語はTypeScript。
 
-フレームワークはNext.js、NextJS。
+フレームワークはNext.js、NestJS。
 
 業務の詳細は下記の通り。
 
