@@ -9,7 +9,7 @@
 |  生年月日  |  1992年  |
 |  居住地  |  都内在住  |
 |  雇用形態  |  業務委託(準委任、請負どちらも可能)  |
-|  ポートフォリオ  |  [Qiita](https://qiita.com/tsuruken), [GitHub](https://github.com/tsuruken0802), [Wantedly](https://www.wantedly.com/id/kentarou_tsurumoto) |
+|  ポートフォリオ  | [個人開発(iOS)](https://apps.apple.com/jp/developer/kentarou-tsurumoto/id1452169627), [個人開発(Android)](https://play.google.com/store/apps/developer?id=Kentaro+Tsurumoto&hl=ja&gl=US) [Qiita](https://qiita.com/tsuruken), [GitHub](https://github.com/tsuruken0802) |
 
 ## 自己紹介
 これまで様々なiOS/Androidのアプリの開発に携わってきました。
@@ -25,13 +25,13 @@
 ## スキルセット
 
 #### 言語
-Swift, Objective-C, Dart, TypeScript, C#, Ruby, PHP
+Dart, TypeScript, Swift, Objective-C, C#, Ruby
 
 #### フレームワーク
-SwiftUI, UIKit, Flutter, Next.js, React, NestJS, Unity, Ruby on Rails, Phalcon
+Flutter, SwiftUI, UIKit, Unity, Next.js, React, NestJS, Ruby on Rails
 
 #### DB
-Realm, Drift(SQLite), MySQL, TypeORM(ORマッパー)
+Isar(FlutterのNoSQLライブラリ), Drift(FlutterのSQLiteライブラリ), Realm, MySQL, TypeORM(ORマッパー)
 
 #### インフラ周り
 GCP(CloudRun,CloudSQL,CloudBuild), Firebase(Authentication,Firestore,Storage,Functions,App Distribution), Docker, Terraform
@@ -44,32 +44,26 @@ GCP(CloudRun,CloudSQL,CloudBuild), Firebase(Authentication,Firestore,Storage,Fun
 
 ## 主な業務経歴書
 
-### 位置情報を用いたSNSのWebサービス (2022年10月~現在)
+### 介護士マッチングアプリの新規開発(2023年2月~8月)
 
 #### プロジェクト概要
-位置情報を用いたSNSのWebサービスの新規開発。
+介護が必要な方と介護士のマッチングアプリの新規開発案件。
 
 #### 担当業務
-全ての実装、設計。
-
-言語はTypeScript。
-
-フレームワークはNext.js、NestJS。
-
+実装メイン。
+FlutterでiOS/Android対応。
 業務の詳細は下記の通り。
 
-* Next.js/Reactを用いた画面開発
-* Atomic Designに基づいたコンポーネント設計
-* Dockerを用いたフロントエンド/バックエンド/DBのコンテナ化
-* NestJS+TypeORMを用いたCRUDの実装
-* Terraformを用いてGCPリソースをコードで管理化
-* CloudBuildを用いたCI/CD環境の構築
+* Riverpod+MVVMでの実装
+* Mockitoを使用した単体テスト
+* ObjectBoxを使用したCRUDの実装
 
 #### 提供した価値
-Next.js/Reactを用いた画面開発や、NestJSでのAPIの実装や、GCP上でのCI/CD環境の構築の経験はなかったが、これまで培ってきた「わからないことがありながらも前に進めてきた経験」を活かし、なんとか終えることができた。
-特にCI/CD環境の構築時に行った、CloudBuildを使ってCloudSQLにTypeORMのマイグレーションコマンドを実行する際は、情報が少ないながらも完遂できて満足している。
+プロジェクトメンバーにFlutterの経験があるメンバーがいなかったので、開発をリードする立場として参画しました。
+アーキテクチャについてメンバーと話し合い大枠を決め、コードレビューでコードの細かいところのずれを修正しながら開発を進めました。
+Flutterの知見を余すところなくお伝えすることができました。
 
-### 資格取得のための生徒と先生のマッチングアプリ (2022年7月~現在)
+### 資格取得のための生徒と先生のマッチングアプリ (2022年7月~10月)
 
 #### プロジェクト概要
 資格取得を目的とした「生徒」がチケットを購入し、資格取得のアドバイスをする「先生」がインセンティブを受け取られるFlutterアプリの新規開発。
