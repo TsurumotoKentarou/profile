@@ -9,7 +9,7 @@
 |  生年月日  |  1992年  |
 |  居住地  |  都内在住  |
 |  雇用形態  |  業務委託(準委任、請負どちらも可能)  |
-|  ポートフォリオ  | [個人開発(iOS)](https://apps.apple.com/jp/developer/kentarou-tsurumoto/id1452169627), [個人開発(Android)](https://play.google.com/store/apps/developer?id=Kentaro+Tsurumoto&hl=ja&gl=US) [Qiita](https://qiita.com/tsuruken), [GitHub](https://github.com/tsuruken0802) |
+|  ポートフォリオ  | [個人開発(iOS)](https://apps.apple.com/jp/developer/kentarou-tsurumoto/id1452169627), [個人開発(Android)](https://play.google.com/store/apps/developer?id=Kentaro+Tsurumoto&hl=ja&gl=US), [Qiita](https://qiita.com/tsuruken), [GitHub](https://github.com/tsuruken0802) |
 
 ## 自己紹介
 これまで様々なiOS/Androidのアプリの開発に携わってきました。
